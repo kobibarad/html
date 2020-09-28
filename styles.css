@@ -1,0 +1,63 @@
+
+img {
+  border-radius: 50%;
+}
+
+.header {
+  padding: 0px;
+  text-align: center;
+}
+
+body {
+  font-family: Sofia;
+  background-color: black;
+}
+
+p {text-align: center;}
+
+h1 {
+  text-shadow: 2px 2px blue;
+    font-size: 30;
+}
+
+h2 {
+  text-shadow: 2px 2px blue;
+    font-size: 30;
+}
+
+h3 {
+  text-shadow: 2px 2px blue;
+  font-size: 30;
+}
+
+h4 {
+  text-shadow: 2px 2px blue;
+  font-size: 30;
+}
+h5 {
+  text-shadow: 2px 2px blue;
+  font-size: 30;
+}
+
+h6 {
+  text-shadow: 2px 2px blue;
+  font-size: 30;
+}
+h7 {
+  text-shadow: 2px 2px blue;
+  font-size: 30;
+}
+h8 {
+  text-shadow: 2px 2px blue;
+  font-size: 30;
+}
+
+h9 {
+  text-shadow: 2px 2px blue;
+  font-size: 30;
+}
+h10 {
+  text-shadow: 2px 2px blue;
+  font-size: 30;
+}
+
